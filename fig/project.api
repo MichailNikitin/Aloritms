@@ -1,0 +1,27 @@
+#
+!NashaHyuny.cpp cctype cerrno clocale cmath cstdint cstdio cstdlib ctype.h cwchar cwctype errno.h exception initializer_list ios iosfwd iostream istream limits limits.h locale.h math.h new ostream signal.h stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string_view system_error type_traits typeinfo utility vector wchar.h wctype.h #<#>
+!drozin2.cpp cctype cerrno clocale cmath cstdint cstdio cstdlib ctype.h cwchar cwctype errno.h exception initializer_list ios iosfwd iostream istream limits limits.h locale.h math.h new ostream signal.h stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string_view system_error type_traits typeinfo wchar.h wctype.h #<#>
+!task2.cpp cctype cerrno clocale cmath cstdint cstdio cstdlib ctype.h cwchar cwctype errno.h exception initializer_list ios iosfwd iostream istream limits limits.h locale.h math.h new ostream signal.h stddef.h stdexcept stdint.h stdio.h stdlib.h streambuf string string_view system_error type_traits typeinfo wchar.h wctype.h #<#>
+PI : const double #<drozin2.cpp>
+calcCircle : string #<NashaHyuny.cpp>
+calculateAreaAndVolumeFig(string nameFig, vector& vecParam) -> string #<NashaHyuny.cpp>
+main() -> int #<drozin2.cpp>
+printCircleParams() -> void #<task2.cpp>
+printCircleParams(double radius) -> void #<drozin2.cpp>
+printConeParams() -> void #<task2.cpp>
+printConeParams(double h, double r) -> void #<drozin2.cpp>
+printCubeParams() -> void #<task2.cpp>
+printCubeParams(double l) -> void #<drozin2.cpp>
+printCylinderParams() -> void #<task2.cpp>
+printCylinderParams(double r, double h) -> void #<drozin2.cpp>
+printEllipseParams() -> void #<task2.cpp>
+printEllipseParams(double a, double b) -> void #<drozin2.cpp>
+printEllipsoidParams() -> void #<task2.cpp>
+printEllipsoidParams(double a, double b, double c) -> void #<drozin2.cpp>
+printParams() -> void #<drozin2.cpp>
+printPrismParams() -> void #<task2.cpp>
+printPrismParams(double l, double h) -> void #<drozin2.cpp>
+printRectParams() -> void #<task2.cpp>
+printRectParams(double a, double b) -> void #<drozin2.cpp>
+printTetrahedronParams() -> void #<task2.cpp>
+printTetrahedronParams(double l) -> void #<drozin2.cpp>
