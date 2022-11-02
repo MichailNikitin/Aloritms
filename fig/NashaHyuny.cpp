@@ -20,7 +20,13 @@ string calculateAreaAndVolumeFig(string nameFig, vector<int> &vecParam)
    return "Введена неизвестная фигура";
 }
 
-string calcCircle(vector<int> &vecParam)()
+string calcCircle(vector<int> &vecParam){
+ double r = vecParam[0];
+   if (r != 0){
+     return 
+   
+   }
+   }
 
 
 int main()
